@@ -3,7 +3,7 @@
 + Supervisor		: LE THANH NHAN
 + Semester		: I	
 + Batch No		: T5.2301.E1
-+ Group No:		: 3
++ Group No		: 3
 + List Of Member:
 	1. Le Minh Thong  	(Student1477472)
 	2. Nguyen Tran Hoang Long	(Student1470292)
