@@ -8,7 +8,7 @@
 	1. Le Minh Thong  	(Student1477472)
 	2. Nguyen Tran Hoang Long	(Student1470292)
 	3. Do Van Cao 	(Student1470118)	
-================================================================================================
+========================================================================================
 Documentations: https://github.com/leminhthong1551997/Clear_Reflections/tree/main/Documentation
 ===================================================================
 Published website: https://leminhthong1551997.github.io/Clear_Reflections/
