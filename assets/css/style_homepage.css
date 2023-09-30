@@ -197,7 +197,7 @@ a:focus {
   background-color: #8019c8;
 }
 
-.custom_nav-container .nav_search-btn {
+/* .custom_nav-container .nav_search-btn {
   width: 35px;
   height: 35px;
   padding: 0;
@@ -207,7 +207,7 @@ a:focus {
 
 .custom_nav-container .nav_search-btn:hover {
   color: #000000;
-}
+} */
 
 .custom_nav-container .navbar-toggler {
   outline: none;
