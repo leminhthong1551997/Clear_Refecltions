@@ -2,7 +2,7 @@
 =======================================
 + Supervisor		: LE THANH NHAN
 + Semester		: I	
-+ Batch No		: T5.2301.E1
++ Batch No		: T5.2306.E1
 + Group No		: 3
 + List Of Member:
 	1. Le Minh Thong  	(Student1477472)
