@@ -1,10 +1,10 @@
 # Clear Reflections
 ======================  
 
-**+ Supervisor		: LÊ THANH NHÂN**  
-**+ Semester		: I**
-**+ Batch No		: T5.2306.E1**  
-**+ Group No		: 3**  
+**+ Supervisor		:LÊ THANH NHÂN**  
+**+ Semester		:I**  
+**+ Batch No		:T5.2306.E1**  
+**+ Group No		:3**  
 **+ List Of Member:**  
 	**1. Lê Minh Thông  		(Student1477472)**  
 	**2. Nguyễn Trần Hoàng Long	(Student1470292)**  
