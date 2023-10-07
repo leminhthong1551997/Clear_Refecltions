@@ -1,6 +1,6 @@
 # Clear_Reflections
 ======================
-#+ Supervisor		: LÊ THANH NHÂN
+# Supervisor		: LÊ THANH NHÂN
 + Semester		: I	
 + Batch No		: T5.2306.E1
 + Group No		: 3
