@@ -1,7 +1,7 @@
 # Clear Reflections
 ======================  
 
-**+ Supervisor** \t **:LÊ THANH NHÂN**  
+**+ Supervisor** /t **:LÊ THANH NHÂN**  
 **+ Semester		:I**  
 **+ Batch No		:T5.2306.E1**  
 **+ Group No		:3**  
