@@ -1,15 +1,15 @@
 # Clear Reflections
 ======================  
 
-<ul>**+ Supervisor>>>:LÊ THANH NHÂN**  
-<li>**+ Semester: I**</li>
-**+ Batch No: T5.2306.E1**  
-**+ Group No: 3**  
+**+ Supervisor		: LÊ THANH NHÂN**  
+**+ Semester		: I**
+**+ Batch No		: T5.2306.E1**  
+**+ Group No		: 3**  
 **+ List Of Member:**  
 	**1. Lê Minh Thông  		(Student1477472)**  
 	**2. Nguyễn Trần Hoàng Long	(Student1470292)**  
 	**3. Đỗ Văn Cao 		(Student1470118)**  
-</ul>
+
 =====================================
 
 **Documentations: <https://github.com/leminhthong1551997/Clear_Reflections/tree/main/Documentation>**  
