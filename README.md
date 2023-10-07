@@ -2,7 +2,7 @@
 ======================  
 
 <ul>**+ Supervisor>>>:LÊ THANH NHÂN**  
-**+ Semester: I**  
+<li>**+ Semester: I**</li>
 **+ Batch No: T5.2306.E1**  
 **+ Group No: 3**  
 **+ List Of Member:**  
