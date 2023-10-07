@@ -27,5 +27,4 @@
 
 =====================================
 
-**Thank you for visit our website.**  
-![image](https://github.com/leminhthong1551997/Clear_Reflections/assets/116416757/046e82ae-f55d-4815-9004-4cf0d06378bf)
+**Thank you for visit our website.** 
